@@ -20,7 +20,7 @@
 
 
 ## Compilation Command
-    `g++ -O2 240717_Palagiri.cpp -o analyzer`
+    g++ -O2 240717_Palagiri.cpp -o analyzer
 
 ## Execution Commands (Examples)
 *  ### Word Count Query :  
